@@ -1,0 +1,26 @@
+.Linear-Gradient{
+    background:linear-gradient(300deg,#00bfff,#ff4c68,#ef8172);
+}
+.mob-img{
+    width: 50%;
+}
+.Lady-style{
+    width: 8%;
+    border-radius: 50%;
+}
+.img-size{
+    height: 30%;
+}
+.Img-height{
+    display: inline-block;
+    width: 100%;
+    height: 400px;
+}
+#second-image-name{
+text-align: left;
+}
+#third-image-name{
+    text-align:end;
+    color: black;
+}
+
